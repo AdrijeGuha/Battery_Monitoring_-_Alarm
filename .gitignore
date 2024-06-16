@@ -1,0 +1,8 @@
+# ignore all the log files
+*.log
+
+# ignore python virtual environment folder
+env
+
+# ignore copyright audio
+/audio/TooSweet.mp3
