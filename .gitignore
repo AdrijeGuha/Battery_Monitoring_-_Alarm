@@ -6,3 +6,6 @@ env
 
 # ignore copyright audio
 /audio/TooSweet.mp3
+
+# README file preview
+README.html
