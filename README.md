@@ -1,14 +1,13 @@
 # Battery Monitor
----
 
 Battery Monitor is a Python script designed to monitor your laptop's battery level and trigger an alarm when it falls below a specified threshold. The script logs the battery status and other relevant information to a log file and stops monitoring once the battery is charged beyond a specified limit.
 
 ## Features
 
 - Monitors battery percentage and triggers an alarm when below a threshold.
-- Logs battery status, remaining time, and power source to a log file.
+- Log battery status, remaining time, and power source to a log file.
 - Stops the alarm once the power source is connected or the battery level is above the threshold.
-- Configurable battery thresholds, check intervals, and log file location.
+- Configurable battery thresholds, check intervals and log file location.
 
 ## Requirements
 
@@ -30,7 +29,7 @@ Battery Monitor is a Python script designed to monitor your laptop's battery lev
     pip install requirements.txt
     ```
 
-3. Ensure you have the alarm audio file in the specified path (`./audio/piano-chilled-melody.wav`).
+3. Ensure the alarm audio file is in the specified path (`./audio/piano-chilled-melody.wav`).
 
 ## Usage
 
