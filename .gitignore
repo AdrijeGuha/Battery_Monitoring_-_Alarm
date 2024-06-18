@@ -7,5 +7,9 @@ env
 # ignore copyright audio
 /audio/TooSweet.mp3
 
-# README file preview
+# ignore README file preview
 README.html
+
+# ignore windows app built using pyinstaller
+windows_app
+
