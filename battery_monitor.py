@@ -1,4 +1,4 @@
-#!./monitor/env/bin/python3
+#!./env/bin/python3
 
 
 import psutil
